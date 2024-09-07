@@ -1,3 +1,4 @@
+This is  a simple React app exploring useState() and useEffect() hooks.It uses some APIs to fetch data. Focuses on fetching initial data from API using useEffect.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
